@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF8"?>
+<listaOsób>
+	<Osoba>
+		<id>#0001</id>
+		<imię>Henryk</imię>
+		<nazwisko>Jarosz</nazwisko>
+		<miejsce_zamieszkania>15-744 Warszawa</miejsce_zamieszkania>
+		<adres>
+			<ulica>Liliowa</ulica>
+			<budynek>32</budynek>
+			<nr_mieszkania>6</nr_mieszkania>
+		</adres>
+		<nr_telefonu>123456789</nr_telefonu>
+		<adres_mialowy>hjarosz@gmail.com</adres_mialowy>
+	</Osoba>
+	<Osoba>
+		<id>#0002</id>
+		<imię>Wiesław</imię>
+		<nazwisko>Lewandowski</nazwisko>
+		<miejsce_zamieszkania>03-895 Skierniewice</miejsce_zamieszkania>
+		<adres>
+			<ulica>Ząbkowicka</ulica>
+			<budynek>122</budynek>
+			<nr_mieszkania>15</nr_mieszkania>
+		</adres>
+		<nr_telefonu>759056789</nr_telefonu>
+		<adres_mialowy>wlewandowski@gmail.com</adres_mialowy>
+	</Osoba>
+	<Osoba>
+		<id>#0003</id>
+		<imię>Roman</imię>
+		<nazwisko>Mucha</nazwisko>
+		<miejsce_zamieszkania>88-014 Chełm</miejsce_zamieszkania>
+		<adres>
+			<ulica>Miarki</ulica>
+			<budynek>22</budynek>
+			<nr_mieszkania>23</nr_mieszkania>
+		</adres>
+		<nr_telefonu>934656789</nr_telefonu>
+		<adres_mialowy>rmucha@gmail.com</adres_mialowy>
+	</Osoba>
+</listaOsób>

@@ -1,0 +1,51 @@
+
+{
+  "Osoby":[
+    {
+      "id": "#0001",
+      "imie": "Henryk",
+      "nazwisko": "Jarosz",
+      "miejsce zamieszkania": "15-744 Warszawa",
+      "adres": [
+        {
+        "ulica": "Liliowa",
+        "budynek": 32,
+        "nr mieszkania": 6
+        }
+      ],
+      "nr telefonu": 123456789,
+      "adres mialowy": "hjarosz@gmail.com"
+    },
+    {
+      "id": "#0002",
+      "imie": "Wiesław",
+      "nazwisko": "Lewandowski",
+      "miejsce zamieszkania": "03-895 Skierniewice",
+      "adres": [
+        {
+        "ulica": "Ząbkowicka",
+        "budynek": 122,
+        "nr mieszkania": 15
+        }
+      ],
+      "nr telefonu": 123434789,
+      "adres mialowy": "wlewandowski@gmail.com"
+    },
+    {
+      "id": "#0003",
+      "imie": "Roman",
+      "nazwisko": "Mucha",
+      "miejsce zamieszkania": "88-014 Chełm",
+      "adres": [
+        {
+        "ulica": "Miarki",
+        "budynek": 22,
+        "nr mieszkania": 23
+        }
+      ],
+      "nr telefonu": 633786789,
+      "adres mialowy": "rmucha@gmail.com"
+    }
+  ]
+}
+  
